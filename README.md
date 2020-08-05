@@ -1,7 +1,7 @@
 # gitaula
 
-blablabla
-bliblibli
-blobloblo
-blebleble
+blablabla\
+bliblibli\
+blobloblo\
+blebleble\
 blublublu
